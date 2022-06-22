@@ -26,7 +26,7 @@
 土浦～筑波～岩瀬を1987年まで結んでいた筑波鉄道は後者を経由する路線で、筑波大学生の利用はほとんどなかったようである。
 要するに、**つくば駅と筑波山はかなり離れている**という点を理解してもらいたい。
 
-![周辺地図](images/tsuchiura-tsukubasancho/tsukuba-tsukubasancho.png) {width=10cm}
+![周辺地図](images/tsuchiura-tsukubasancho/tsuchiura-tsukubasancho.png) {width=10cm}
 
 この日は横浜で野暮用を終えて、佐貫 (現・龍ヶ崎市駅。ただし竜ヶ崎線側の駅名は変わっていない) 駅前に泊まっていた。
 観光地が少なく首都圏からの用務客は日帰りで済ます地域なのでホテルは安い。
