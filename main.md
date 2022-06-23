@@ -32,6 +32,8 @@
 坂を下った先にバス停があるのだが、このT字路からでさえ目視できないので道を間違えたか非常に不安になる。
 地図を確認しながら歩くことを推奨する。
 
+![てだこ浦西駅周辺図](images/tedakouranishi-asahibashi/tedakouranishi.png)
+
 ![周辺地図](images/tedakouranishi-asahibashi/tedakouranishi-asahibashi.png)
 
 ### 常磐線 土浦 ～ 筑波観光鉄道 筑波山頂
