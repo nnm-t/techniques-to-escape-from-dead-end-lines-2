@@ -190,21 +190,21 @@ ANA/JAL便はWi-Fiが整備されていて、主に東京/大阪発着で通路�
 ここからバスに乗車しても御坊駅へ戻ることができるというわけである。
 ところが、西御坊バス停に乗り入れるのは日裏線 (平日2.5往復、土曜1往復、休日運休。御坊駅には乗り入れない) と印南線 (平日下り12本上り10本、土休日8往復) のみで、時間帯によってはタイミング良く接続しないこともある。
 
-![周辺地図](images/gobo-nishigobo/gobo-nishigobo.png)
+![周辺地図](images/gobo-nishigobo/gobo-nishigobo.png) {width=10cm}
 
 紀州鉄道の列車はJRのりばの片隅にある0番線から発車する。
 元は信楽高原鐵道SKR200形で、塗色もそのままで使用されていた (その後、独自の塗色へ変更されている)。
 
-![西御坊行](images/gobo-nishigobo/DSC02243.jpg)
+![西御坊行](images/gobo-nishigobo/DSC02243.jpg) {width=8cm}
 
 およそ8分で西御坊駅に到着。
 無人駅ながら風情のある駅舎が残っていて、ホームと同一平面上に建っているのも特徴的。
 
-![西御坊駅](images/gobo-nishigobo/DSC02250.jpg)
+![西御坊駅](images/gobo-nishigobo/DSC02250.jpg) {width=8cm}
 
 踏切に隣接してさっき通ってきた市役所前駅がある。
 
-![市役所前駅](images/gobo-nishigobo/DSC02254.jpg)
+![市役所前駅](images/gobo-nishigobo/DSC02254.jpg) {width=8cm}
 
 大浜通りバス停は踏切を過ぎた先、紀陽銀行の前あたりに立っている。
 古くからの店舗たちを眺めながら待ち、定刻から数分、都市部でも時々見かける丸っこいあの車体がやってきた。
@@ -281,6 +281,8 @@ ANA/JAL便はWi-Fiが整備されていて、主に東京/大阪発着で通路�
 同様に輪島特急線も発着するが、こちらは穴水の駅前までは乗り入れない。
 
 ### 予讃線 高松 ～ 山陽電鉄本線 飾磨
+
+![周辺地図](images/takamatsu-shikama/takamatsu-shikama.png) {width=10cm}
 
 ### 東海道本線 大阪 ～ 阿佐海岸鉄道 甲浦 ～ 土佐くろしお鉄道ごめん・なはり線 奈半利
 
