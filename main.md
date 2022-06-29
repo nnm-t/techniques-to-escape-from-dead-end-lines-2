@@ -286,6 +286,8 @@ ANA/JAL便はWi-Fiが整備されていて、主に東京/大阪発着で通路�
 
 ### 東海道本線 大阪 ～ 阿佐海岸鉄道 甲浦 ～ 土佐くろしお鉄道ごめん・なはり線 奈半利
 
+![周辺地図](images/osaka-kannnoura-nahari/osaka-kannoura-nahari.png)
+
 <!-- 寄稿挿入位置 -->
 
 ## コラム
