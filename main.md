@@ -834,21 +834,21 @@ DMV移行後初めての大型連休ということもあり、観光客のほ�
 - 有田川町観光施設巡回バス (2017年7月)
   - 観光客向けで施設で整理券を受け取って無料で利用できた。2018年で廃止。
 
-![鹿屋市 大隅半島直行バス](images/appendix/DSC01061.jpg){width=5cm}
-![有田川町観光施設巡回バス](images/appendix/DSC00303.JPG){width=5cm}
+![鹿屋市 大隅半島直行バス](images/appendix/DSC01061.jpg){width=4cm}
+![有田川町観光施設巡回バス](images/appendix/DSC00303.JPG){width=4cm}
 
 - 那須烏山市営バス (2017年10月)
 - 気仙沼市内循環バス (2019年1月)
 
-![那須烏山市営バス](images/appendix/DSC02679.jpg)
-![気仙沼市内循環バス](images/appendix/DSC09596.jpg)
+![那須烏山市営バス](images/appendix/DSC02679.jpg){width=4cm}
+![気仙沼市内循環バス](images/appendix/DSC09596.jpg){width=4cm}
 
 - 岩国市生活交通バス (錦地域) (2019年5月)
 - 静岡市井川地区自主運行バス (2019年8月)
   - 定員9名、荷物スペース無し。地元住民優先。
 
-![岩国市生活交通バス](images/appendix/DSC01419.jpg)
-![静岡市井川地区自主運行バス](images/appendix/DSC01849.jpg)
+![岩国市生活交通バス](images/appendix/DSC01419.jpg){width=4cm}
+![静岡市井川地区自主運行バス](images/appendix/DSC01849.jpg){width=4cm}
 
 ## あとがき
 
