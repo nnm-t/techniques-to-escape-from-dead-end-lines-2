@@ -876,24 +876,17 @@ DMV移行後初めての大型連休ということもあり、観光客のほ�
 - コモンズ証: https://creativecommons.org/licenses/by/4.0/deed
 - リーガルコード: https://creativecommons.org/licenses/by/4.0/legalcode
 
-## 著者紹介
-
-### 神沢野並
-
-1992年愛知県生まれ。同人サークル「ホンナムユーティナイ」 (タイ語で「トイレどこですか」の意) 代表。
-
-- Web: https://kamisawa.net/
-- E-Mail: noname@kamisawa.net
-- Twitter: @nnm_t
-- Mastodon: nnm_t@mstdn.nere9.help
-- GitHub: https://github.com/nnm_t
-
 ## 奥付
 
 - 書名: 盲腸線を脱出する技術2
 - 発行: ホンナムユーティナイ
   - 2022年8月13日 コミックマーケット100 初版発行
 - 著者: 神沢野並 (@nnm_t)
+  - Web: https://kamisawa.net/
+  - E-Mail: noname@kamisawa.net
+  - Twitter: @nnm_t
+  - Mastodon: nnm_t@mstdn.nere9.help
+  - GitHub: https://github.com/nnm_t
 - 印刷: <!-- 未決定 -->
 
 本書は個人の興味により制作した同人誌です。関係各所へのお問い合わせはお控え下さい。
